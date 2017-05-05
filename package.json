@@ -1,0 +1,25 @@
+{
+  "name": "node-country-detection",
+  "version": "1.0.0",
+  "description": "Simple library for detection of country based on http headers.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PanHerbaciarz/node-country-detection.git"
+  },
+  "keywords": [
+    "country",
+    "detection",
+    "detector",
+    "library",
+    "js",
+    "javascript",
+    "node"
+  ],
+  "author": "Herbaciarz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PanHerbaciarz/node-country-detection/issues"
+  },
+  "homepage": "https://github.com/PanHerbaciarz/node-country-detection#readme"
+}
