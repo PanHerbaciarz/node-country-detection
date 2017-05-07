@@ -61,7 +61,7 @@ jspm_packages
 Network Trash Folder
 Temporary Items
 .apdisk
-
+.idea
 # Windows
 # =========================
 
@@ -83,3 +83,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+.idea/modules.xml

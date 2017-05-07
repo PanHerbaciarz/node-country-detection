@@ -497,7 +497,7 @@ const currency = {
 
 module.exports = {
     /**
-     * Check headers and accept-language to define origin of users
+     * Check a headers and accept-language to define origin of the users
      * @param {array} req
      * @return {string} country
      */
@@ -506,7 +506,7 @@ module.exports = {
         return countries[lang.slice(0,2).toUpperCase()];
     },
     /**
-     * Check headers and accept-language to define what currencies are used in user country
+     * Check a headers and accept-language to define what currencies are used in an user country
      * @param {array} req
      * @return {string} currency
      */
