@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PanHerbaciarz/node-country-detection.git"
+    "url": "git+https://github.com/pilotpirxie/node-country-detection.git"
   },
   "keywords": [
     "country",
@@ -16,10 +16,10 @@
     "javascript",
     "node"
   ],
-  "author": "Herbaciarz",
+  "author": "pilotpirxie",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PanHerbaciarz/node-country-detection/issues"
+    "url": "https://github.com/pilotpirxie/node-country-detection/issues"
   },
-  "homepage": "https://github.com/PanHerbaciarz/node-country-detection#readme"
+  "homepage": "https://github.com/pilotpirxie/node-country-detection#readme"
 }
